@@ -8,3 +8,10 @@ Código em Phyton desenvolvido durante a aula de Tópicos Especiais com o objeti
 - tempo
 - aceleracao 
 - posicaoFinal
+
+## Operadores utilizados:
+- Operador de soma ( + )
+- Operador de multiplicação ( * )
+- Operador de divisão ( / )
+- Operador de potência ( ^ )
+- Operador de igualdade ( = )
