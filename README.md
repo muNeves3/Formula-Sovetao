@@ -7,3 +7,4 @@ Código em Phyton desenvolvido durante a aula de Tópicos Especiais com o objeti
 - velocidadeInicial
 - tempo
 - aceleracao 
+- posicaoFinal
